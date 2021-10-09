@@ -1,0 +1,13 @@
+span {
+  color: orange;
+}
+
+.header {
+  background-color: whitesmoke;
+  border-bottom: 1px solid #dcdcdc;
+}
+.header {
+  font-size: large;
+  font-weight: 600;
+  color: #2b2b2b;
+}

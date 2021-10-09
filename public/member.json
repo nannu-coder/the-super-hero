@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Fahad",
+    "img": "https://images.pexels.com/photos/3660654/pexels-photo-3660654.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "student_Id": 19304,
+    "dept": "CSE",
+    "current_semester": "8th",
+    "salary": 9500
+  },
+  {
+    "name": "Rifad",
+    "img": " https://images.pexels.com/photos/1007066/pexels-photo-1007066.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 ",
+    "student_Id": 17303,
+    "dept": "CSE",
+    "current_semester": "8th",
+    "salary": 9200
+  },
+  {
+    "name": "Fahim",
+    "img": " https://images.pexels.com/photos/1628087/pexels-photo-1628087.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 ",
+    "student_Id": 12304,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 9000
+  },
+  {
+    "name": "Jonaed",
+    "img": " https://images.pexels.com/photos/1329494/pexels-photo-1329494.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 ",
+    "student_Id": 11305,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Jahid",
+    "img": "https://images.pexels.com/photos/3793238/pexels-photo-3793238.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "student_Id": 10306,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Soporna",
+    "img": " https://images.pexels.com/photos/1699419/pexels-photo-1699419.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "student_Id": 14305,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Sushmita",
+    "img": " https://images.pexels.com/photos/2517765/pexels-photo-2517765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "student_Id": 14301,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8800
+  },
+  {
+    "name": "Nazmul",
+    "img": "https://images.pexels.com/photos/1550699/pexels-photo-1550699.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "student_Id": 15304,
+    "dept": "CSE",
+    "current_semester": "7th",
+    "salary": 8500
+  }
+]
